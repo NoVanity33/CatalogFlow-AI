@@ -1,0 +1,70 @@
+[
+  {
+    "id": "lion-of-judah",
+    "name": "Lion of Judah Tee",
+    "collection": "Premium",
+    "price": 35,
+    "colors": [
+      "Black",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "frontDesign": "Crowned Lion of Judah artwork",
+    "backDesign": "Biblical context explaining the Lion of Judah",
+    "scripture": "Revelation 5:5",
+    "image": "",
+    "productUrl": "https://novanity33.com"
+  },
+  {
+    "id": "faith-over-fear",
+    "name": "Faith Over Fear Tee",
+    "collection": "Everyday Wear",
+    "price": 27,
+    "colors": [
+      "Black",
+      "Sport Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "frontDesign": "Faith Over Fear typography",
+    "backDesign": "",
+    "scripture": "",
+    "image": "",
+    "productUrl": "https://novanity33.com"
+  },
+  {
+    "id": "parting-the-sea",
+    "name": "Parting the Sea Tee",
+    "collection": "Premium",
+    "price": 35,
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "frontDesign": "Moses and the parted sea",
+    "backDesign": "Biblical context of Exodus and deliverance",
+    "scripture": "Exodus 14",
+    "image": "",
+    "productUrl": "https://novanity33.com"
+  }
+]
